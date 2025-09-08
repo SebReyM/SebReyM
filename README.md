@@ -5,7 +5,7 @@ Bachelor of Science in Music Technology and currently pursuing a Master of Scien
 Skilled in live audio/light engineering, sound design, and recording.
 ### Computer Science
 Experience in Python and C++, with focus on AI/ML, Data Science. <br/>  <br/>
-Check out my [LinkedIn](https://www.linkedin.com/in/sebreymartinez), or contact me via [email](sebreymartinez@gmail.com)!
+Check out my [LinkedIn](https://www.linkedin.com/in/sebreymartinez), or contact me via [email](mailto:sebreymartinez@gmail.com)!
 <!--
 **SebReyM/SebReyM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
